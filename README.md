@@ -5,6 +5,17 @@
 我们要做最先进的消息技术，还要做最受欢迎的消息产品，更要拥有最大的消息市场。      
 我们在做一件长期有价值的事情，新的10年，欢迎你的加入 zhendongliu.lzd@alibaba-inc.com.
 
+#### 团队已经开源的技术
+Apache RocketMQ 顶级项目     
+https://github.com/apache/rocketmq    
+OpenMessaging DLedger，基于Raft的一致性存储库    
+https://github.com/openmessaging/openmessaging-storage-dledger    
+OpenMessaging Benchmark, 消息性能测试     
+https://github.com/openmessaging/openmessaging-benchmark    
+对于我们团队有任何疑问，欢迎采用社区的方式进行沟通，提Issue。
+
+
+#### 长期招聘的职位
 ##### 消息与流存储技术
 消息是个存储产品，持久化，多副本一致性，事务，定时，高可用，低延迟，这些都是最基本的要求。     
 流是一连串顺序的消息，实时性，高吞吐，无缝弹缩，断点续读，是其最显著的特点。     
